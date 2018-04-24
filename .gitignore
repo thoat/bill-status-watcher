@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# plain text sample data files
+*.txt
+
+# thoa's own draft
+openstates_api.py
+inspiration-1.png
+inspiration-2.png
