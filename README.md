@@ -2,9 +2,9 @@
 A visualization dashboard to track state legislative bills.
 
 ## Project Status
-- [x] This project is under active development.
+- [ ] This project is under active development.
 - [ ] This project is already published and under active maintenance.
-- [ ] This project is no longer monitored or maintained.
+- [x] This project is no longer monitored or maintained.
 
 ## Installation
 TBD
